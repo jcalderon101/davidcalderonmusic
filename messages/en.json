@@ -1,0 +1,36 @@
+{
+  "Hero": {
+    "title": "DAVID CALDERÓN",
+    "subtitle": "ELECTRONIC MUSIC PRODUCER",
+    "tagline": "MINIMAL. POWERFUL. PRECISE.",
+    "listen": "LISTEN",
+    "contact": "CONTACT"
+  },
+  "Music": {
+    "title": "SELECTED WORKS",
+    "play": "PLAY"
+  },
+  "About": {
+    "title": "ABOUT",
+    "p1": "Colombia-based electronic music producer, crafting minimal and powerful sounds for international audiences.",
+    "p2": "My approach combines deep textures with precise rhythms, seeking a balance between sonic experimentation and dancefloor functionality."
+  },
+  "Experience": {
+    "title": "BACKGROUND",
+    "text": "Over 8 years of experience in the electronic scene, with performances at clubs and festivals in Colombia, Mexico, Spain, and Germany. Residencies at renowned clubs in Bogotá and Medellín."
+  },
+  "Contact": {
+    "title": "CONTACT",
+    "bookings": "FOR BOOKINGS, COLLABORATIONS AND PROFESSIONAL INQUIRIES:",
+    "email": "contact@davidcalderonmusic.com"
+  },
+  "Footer": {
+    "rights": "© 2024 DAVID CALDERÓN. ALL RIGHTS RESERVED.",
+    "design": "MINIMAL DESIGN • PROFESSIONAL DEVELOPMENT"
+  },
+  "Navbar": {
+    "music": "MUSIC",
+    "about": "ABOUT",
+    "contact": "CONTACT"
+  }
+}

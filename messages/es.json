@@ -1,0 +1,36 @@
+{
+  "Hero": {
+    "title": "DAVID CALDERÓN",
+    "subtitle": "PRODUCTOR DE MÚSICA ELECTRÓNICA",
+    "tagline": "MINIMAL. PODEROSO. PRECISO.",
+    "listen": "ESCUCHAR",
+    "contact": "CONTACTO"
+  },
+  "Music": {
+    "title": "TRABAJOS SELECCIONADOS",
+    "play": "REPRODUCIR"
+  },
+  "About": {
+    "title": "SOBRE MÍ",
+    "p1": "Productor de música electrónica con sede en Colombia, creando sonidos minimales y poderosos para audiencias internacionales.",
+    "p2": "Mi enfoque combina texturas profundas con ritmos precisos, buscando un equilibrio entre la experimentación sonora y la funcionalidad en la pista de baile."
+  },
+  "Experience": {
+    "title": "TRAYECTORIA",
+    "text": "Más de 8 años de experiencia en la escena electrónica, con presentaciones en clubes y festivales de Colombia, México, España y Alemania. Residencias en reconocidos clubes de Bogotá y Medellín."
+  },
+  "Contact": {
+    "title": "CONTACTO",
+    "bookings": "PARA RESERVAS, COLABORACIONES Y CONSULTAS PROFESIONALES:",
+    "email": "contacto@davidcalderonmusic.com"
+  },
+  "Footer": {
+    "rights": "© 2024 DAVID CALDERÓN. TODOS LOS DERECHOS RESERVADOS.",
+    "design": "DISEÑO MINIMAL • DESARROLLO PROFESIONAL"
+  },
+  "Navbar": {
+    "music": "MÚSICA",
+    "about": "SOBRE MÍ",
+    "contact": "CONTACTO"
+  }
+}
